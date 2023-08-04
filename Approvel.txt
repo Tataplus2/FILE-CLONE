@@ -1,6 +1,6 @@
-TAYBUL-PRO1→0→2→4→3→u→0→_→a→2→4→3 
+TAYBUL-PRO-1→0→2→4→3→u→0→_→a→2→4→3 
 Ami
-TAYBUL-PRO1→0→2→4→4→u→0→_→a→2→4→4
+TAYBUL-PRO-1→0→2→0→0→u→0→_→a→2→0→0
 shamim
-TAYBUL-PRO1→0→2→4→5→u→0→_→a→2→4→5
+TAYBUL-PRO-1→0→2→4→5→u→0→_→a→2→4→5
 asif
