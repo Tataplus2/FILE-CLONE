@@ -6,3 +6,5 @@ TAYBUL-PRO-1→0→2→4→5→u→0→_→a→2→4→5
 asif
 TAYBUL-PRO-1→0→2→3→8→u→0→_→a→2→3→8
 07/08-2din
+TAYBUL-PRO-1→0→1→8→0→u→0→_→a→1→8→0
+07/8-2din
